@@ -1,3 +1,11 @@
+/*
+*Author: Chase McCluskey
+*Date: 10/17/2024
+*File: LabProblem7.1
+*
+* Description: Find the smallest and average value in a data set of 3 numbers 
+*/
+
 #include <iostream>
 
 using namespace std;
